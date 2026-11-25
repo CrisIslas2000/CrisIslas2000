@@ -353,6 +353,9 @@ Download CV:
 
 ---
 
+
+---
+
 <div align="center">
 
 ### Never give up. Keep building.
@@ -360,6 +363,12 @@ Download CV:
 **CI. — Beyond the Code**
 
 *Build. Learn. Evolve.*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=CrisIslas2000&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge)
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080f1e,50:16478d,100:a50044&height=110&section=footer" alt="Profile footer"/>
 
