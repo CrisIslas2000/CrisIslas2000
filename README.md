@@ -1,375 +1,107 @@
-
-<!-- ====================================================== -->
-<!-- CI. — BEYOND THE CODE | GITHUB PROFILE                  -->
-<!-- ====================================================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080f1e,50:16478d,100:a50044&height=230&section=header&text=Cristian%20Islas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CI.%20%E2%80%94%20Beyond%20the%20Code&descAlignY=59&descSize=18&animation=fadeIn" alt="Cristian Islas - Beyond the Code"/>
+# CI. — Cristian Islas
 
-<a href="https://github.com/CrisIslas2000">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=63B3FA&center=true&vCenter=true&width=650&height=65&lines=Software+Developer;Full+Stack+Development;Backend+Engineering;REST+API+%26+System+Integration;Build.+Learn.+Evolve." alt="Professional specializations"/>
-</a>
+**Software Developer | Full Stack & Backend Engineering**
 
-### Software Developer | Full Stack & Backend Engineering
+*Más allá del código · Beyond the Code*
 
-*Building reliable solutions through strategy, discipline and continuous improvement.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-CrisIslas2000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CrisIslas2000)
-![Mexico](https://img.shields.io/badge/Location-Mexico-16478D?style=for-the-badge)
-![Developer](https://img.shields.io/badge/Software-Developer-2563EB?style=for-the-badge&logo=codeforces&logoColor=white)
-
-<!-- Add verified LinkedIn, portfolio and CV links here. -->
+[![Portfolio](https://img.shields.io/badge/Portafolio-crisislas2000.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://crisislas2000.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian%20Islas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-alan-morales-islas-b8281b262)
+[![Email](https://img.shields.io/badge/Email-crisislas10%40gmail.com-14243D?style=for-the-badge&logo=gmail&logoColor=63B3FA)](mailto:crisislas10@gmail.com)
 
 </div>
 
 ---
 
-## 01. Professional Profile
+### Sobre mí
 
-I'm a software developer from Mexico, focused on building reliable web applications, backend services, REST APIs and system integrations.
+Desarrollador Web Full Stack mexicano con **3 años de experiencia** en el análisis, desarrollo, mantenimiento y optimización de sistemas web institucionales. Enfocado en **Backend Engineering**, **REST APIs**, **integración entre sistemas**, **bases de datos relacionales**, arquitectura por capas, seguridad y mantenibilidad.
 
-I'm passionate about software development, particularly Java, software architecture and solving real-world problems through technology.
-
-My approach prioritizes:
-
-- Clean and maintainable code.
-- Security, integrity and reliability.
-- Software architecture and organization.
-- Continuous learning and improvement.
-- Efficient and scalable solutions.
-
-> Good software is built with strategy, discipline and consistency.
+- Lenguaje favorito: **Java**
+- Enfoque actual: Arquitectura backend, interoperabilidad de sistemas (`n8n` / `REST APIs`) y exploración continua en **Spring Boot**.
+- Ubicación: **México**
+- Idiomas: **Español** (Nativo) · **Inglés** (B1 — Intermedio)
 
 ---
 
-## 02. Professional Experience
+### Stack Tecnológico
 
-### Software Developer — Government Sector
+**Lenguajes**
+![Java](https://img.shields.io/badge/Java-080F1E?style=flat-square&logo=openjdk&logoColor=F89820)
+![JavaScript](https://img.shields.io/badge/JavaScript-080F1E?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-080F1E?style=flat-square&logo=typescript&logoColor=3178C6)
+![PHP](https://img.shields.io/badge/PHP-080F1E?style=flat-square&logo=php&logoColor=777BB4)
+![SQL](https://img.shields.io/badge/SQL-080F1E?style=flat-square&logo=postgresql&logoColor=63B3FA)
+![HTML5](https://img.shields.io/badge/HTML5-080F1E?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-080F1E?style=flat-square&logo=css3&logoColor=1572B6)
 
-**Mexico**
+**Frontend & Backend**
+![React](https://img.shields.io/badge/React-080F1E?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-080F1E?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-080F1E?style=flat-square&logo=bootstrap&logoColor=7952B3)
+![Node.js](https://img.shields.io/badge/Node.js-080F1E?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-080F1E?style=flat-square&logo=express&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-080F1E?style=flat-square&logo=symfony&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-080F1E?style=flat-square&logo=laravel&logoColor=FF2D20)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_(Explorando)-080F1E?style=flat-square&logo=springboot&logoColor=6DB33F)
 
-My professional experience focuses on the development and integration of technological solutions for institutional environments.
+**Bases de Datos & ORMs**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-080F1E?style=flat-square&logo=postgresql&logoColor=336791)
+![SQL Server](https://img.shields.io/badge/SQL_Server-080F1E?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
+![MySQL](https://img.shields.io/badge/MySQL-080F1E?style=flat-square&logo=mysql&logoColor=4479A1)
+![MariaDB](https://img.shields.io/badge/MariaDB-080F1E?style=flat-square&logo=mariadb&logoColor=white)
+`Sequelize ORM` · `Drizzle ORM` · `Doctrine ORM`
 
-Areas of work:
-
-- Web application development.
-- REST API development and consumption.
-- Integration between information systems.
-- Backend services and business logic.
-- Relational databases.
-- Process automation.
-- Technical documentation.
-- Software maintenance and improvement.
-
-<!--
-ACADEMIC BACKGROUND
-
-University:
-Degree:
-Period:
-Academic status:
-
-CERTIFICATIONS
-
-Add verified certifications and courses.
-
-PROFESSIONAL EXPERIENCE
-
-Add exact position, institution, employment dates
-and verified professional achievements.
--->
-
----
-
-## 03. Technology Stack
-
-### Programming Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,php,html,css&perline=5" alt="Programming languages"/>
-
-</div>
-
-### Frontend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react&perline=5" alt="Frontend technologies"/>
-
-</div>
-
-### Backend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,symfony&perline=5" alt="Backend technologies"/>
-
-</div>
-
-### Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql&perline=5" alt="Database technologies"/>
-
-</div>
-
-### Development Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&perline=5" alt="Development tools"/>
-
-</div>
-
-### Infrastructure & Continuous Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,nginx,kubernetes&perline=5" alt="Infrastructure technologies"/>
-
-<br/>
-
-![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-</div>
+**Infraestructura, Automatización & Herramientas**
+![Linux](https://img.shields.io/badge/Linux-080F1E?style=flat-square&logo=linux&logoColor=FCC624)
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-080F1E?style=flat-square&logo=rockylinux&logoColor=10B981)
+![Docker](https://img.shields.io/badge/Docker-080F1E?style=flat-square&logo=docker&logoColor=2496ED)
+![Nginx](https://img.shields.io/badge/Nginx-080F1E?style=flat-square&logo=nginx&logoColor=009639)
+![PM2](https://img.shields.io/badge/PM2-080F1E?style=flat-square&logo=pm2&logoColor=2B037A)
+![Git](https://img.shields.io/badge/Git-080F1E?style=flat-square&logo=git&logoColor=F05032)
+![pnpm](https://img.shields.io/badge/pnpm-080F1E?style=flat-square&logo=pnpm&logoColor=F69220)
+![Postman](https://img.shields.io/badge/Postman-080F1E?style=flat-square&logo=postman&logoColor=FF6C37)
+![n8n](https://img.shields.io/badge/n8n-080F1E?style=flat-square&logo=n8n&logoColor=EA4B71)
+![Firebase](https://img.shields.io/badge/Firebase_Cloud_Messaging-080F1E?style=flat-square&logo=firebase&logoColor=FFCA28)
 
 ---
 
-## 04. Engineering Focus
+### Experiencia y Proyectos Destacados
 
-| Area | Focus |
-| :--- | :--- |
-| **Backend Engineering** | REST APIs, services and business logic |
-| **Frontend Development** | Web applications and user interfaces |
-| **System Integration** | Communication between platforms |
-| **Database Management** | Relational databases and data integrity |
-| **Infrastructure** | Linux environments and secure deployments |
-| **Automation** | Workflow and process optimization |
-| **Software Quality** | Security, organization and maintainability |
+- **Gobierno del Estado de Hidalgo** — *Desarrollador Web* (`2024 — Actualidad`)
+  - Arquitectura por capas (`Controller-Service-Repository`), APIs REST, OCR, logs transaccionales, notificaciones con Firebase Cloud Messaging y autenticación 2FA.
+- **Presidencia Municipal** — *Desarrollador Web y Soporte Técnico* (`2023 — 2024`)
+- **Nova Corp** — *Desarrollador Web* (`Julio 2022 — Noviembre 2022`)
 
----
-
-## 05. Projects & Repositories
-
-I enjoy building software that solves real problems, connects systems and improves existing processes.
-
-My main areas of interest include:
-
-- Enterprise system integration.
-- Full Stack applications.
-- REST API development.
-- Database-driven applications.
-- Infrastructure and automation.
-
-<div align="center">
-
-[![Repositories](https://img.shields.io/badge/Explore_My_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CrisIslas2000?tab=repositories)
-
-</div>
-
-<!--
-FEATURED PROJECTS
-
-Replace this section with verified public repositories.
-
-For each project include:
-- Project name
-- Description
-- Problem solved
-- Technology stack
-- Repository URL
-- Live demo URL, if available
--->
+**Soluciones implementadas:**
+- **Integración `n8n` (Relacional ↔ No Relacional):** Conexión e intercambio de datos entre sistema interno de correspondencia y trámites (relacional) y Domino Lotus (no relacional).
+- **Sistema de Registro para Apoyos Sociales:** OCR para lectura de CURP, validaciones automáticas y expedientes digitales en tiempo real (~80,000 registros diarios / ~400,000 solicitantes).
+- **Sistema de Gestión de Requerimientos:** Trazabilidad interna, notificaciones push con Firebase Cloud Messaging y logs transaccionales.
+- **Sistema Web para el Archivo General del Estado:** Trazabilidad histórica institucional y carga masiva de información.
+- **Sistema de Auditorías:** Login con 2FA, módulo OCR, cálculos automatizados y generación de oficios.
 
 ---
 
-<!-- ====================================================== -->
-<!-- BEYOND THE CODE                                       -->
-<!-- ====================================================== -->
+### Formación Académica
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080f1e,50:16478d,100:a50044&height=95&text=BEYOND%20THE%20CODE&fontSize=29&fontColor=ffffff&fontAlignY=43&desc=The%20person%20behind%20the%20developer&descSize=13&descAlignY=74" alt="Beyond the Code"/>
-
-</div>
-
-## 06. My Game Plan
-
-<div align="center">
-
-**Strategy. Architecture. Execution.**
-
-</div>
-
-I see software development as a team sport: every technology has a purpose, every decision matters, and the best results come from a solid strategy.
-
-| Position | Technical Area |
-| :--- | :--- |
-| **Attack** | React and user experience |
-| **Midfield** | Java, JavaScript, PHP and backend logic |
-| **Defense** | Linux, Git and infrastructure |
-| **Goalkeeper** | Security and data integrity |
-
-<div align="center">
-
-```text
-              ┌────────────────────────┐
-              │       FRONTEND         │
-              │         React          │
-              │                        │
-              │  Java   Node.js   PHP  │
-              │                        │
-              │ Express SQL Symfony    │
-              │                        │
-              │ Git  Linux  PostgreSQL │
-              │                        │
-              │  SECURITY & INTEGRITY  │
-              └────────────────────────┘
-```
-
-*Every technology has a position. Every solution needs a strategy.*
-
-</div>
+- **Universidad Autónoma del Estado de Hidalgo (UAEH)** — Licenciatura en Ciencias Computacionales (`2018 — 2022`)
+- **CBTis No. 222** — Técnico en Programación (`2015 — 2018`)
 
 ---
 
-## 07. GitHub Performance
+### Beyond the Code (`80% Ingeniería · 20% Identidad`)
 
-<div align="center">
+- **El desarrollador:** Rigor técnico, arquitectura limpia y aprendizaje continuo.
+- **El estratega:** Visión táctica, precisión y trabajo en equipo inspirados en el fútbol.
+- **El luchador:** Disciplina, perseverancia y carácter inspirados en la lucha libre mexicana.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CrisIslas2000&show_icons=true&hide_border=true&bg_color=0D1117&title_color=63B3FA&icon_color=2563EB&text_color=CBD5E1&include_all_commits=true" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisIslas2000&layout=compact&hide_border=true&bg_color=0D1117&title_color=63B3FA&text_color=CBD5E1" alt="Most used languages"/>
-
-</div>
-
-### Contribution Streak
-
-<div align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=CrisIslas2000&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2563EB&fire=63B3FA&currStreakLabel=63B3FA" alt="GitHub contribution streak"/>
-
-</div>
-
-### Activity Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CrisIslas2000&bg_color=0d1117&color=63b3fa&line=2563eb&point=f1f5f9&area=true&hide_border=true" alt="GitHub activity graph"/>
-
-</div>
-
-<sub>Public GitHub activity does not necessarily represent my complete professional experience or private repository contributions.</sub>
-
----
-
-## 08. The Person Behind the Code
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### The Strategist
-
-![Football](https://img.shields.io/badge/FOOTBALL-A50044?style=for-the-badge)
-
-**FC Barcelona**
-
-**Chivas de Guadalajara**
-
-**Lionel Messi**
-
-Creativity, precision, vision and teamwork.
-
-Football reminds me that great results begin with a solid strategy.
-
-</td>
-<td width="50%" align="center">
-
-### The Fighter
-
-![Wrestling](https://img.shields.io/badge/LUCHA_LIBRE-2563EB?style=for-the-badge)
-
-**WWE**
-
-**John Cena**
-
-**Kemonito**
-
-Discipline, perseverance and character.
-
-Wrestling reminds me to keep moving forward, even when challenges become difficult.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### Hustle. Loyalty. Respect.
-
-![FC Barcelona](https://img.shields.io/badge/FC_Barcelona-A50044?style=flat-square&logoColor=white)
-![Chivas](https://img.shields.io/badge/Chivas-C8102E?style=flat-square&logoColor=white)
-![Messi](https://img.shields.io/badge/Messi-10-16478D?style=flat-square)
-![Never Give Up](https://img.shields.io/badge/Never_Give_Up-2563EB?style=flat-square)
-
-</div>
-
----
-
-## 09. Current Objectives
-
-- Strengthen my software architecture knowledge.
-- Improve my backend engineering skills.
-- Explore containerization and secure deployments.
-- Continue improving my English.
-- Build a professional technical portfolio.
-- Keep learning and growing as a software developer.
-
----
-
-## 10. Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-CrisIslas2000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CrisIslas2000)
-
-<!--
-Add these links when available:
-
-LinkedIn:
-Professional email:
-Portfolio:
-Download CV:
--->
-
-</div>
-
----
-
+> Conoce el portafolio completo e interactivo (incluyendo mi alineación táctica `4-3-3` y CV en formato ATS) en **[crisislas2000.github.io](https://crisislas2000.github.io/)**.
 
 ---
 
 <div align="center">
 
-### Never give up. Keep building.
-
-**CI. — Beyond the Code**
-
-*Build. Learn. Evolve.*
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=CrisIslas2000&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080f1e,50:16478d,100:a50044&height=110&section=footer" alt="Profile footer"/>
+![Visitas al perfil](https://komarev.com/ghpvc/?username=CrisIslas2000&label=Visitas&color=2563EB&style=flat-square)
 
 </div>
